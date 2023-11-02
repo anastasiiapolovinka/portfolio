@@ -76,7 +76,7 @@ export default function CV() {
                    </p>
                    <p className='text-xl font-semibold mt-2 text-slate-600'>
                    Personal qualities:<br/>
-                   Attentiveness, punctuality, responsible approach to work. Sociability in moderation... this is not always appropriate!<br/> I strive to constantly develop and improve my knowledge in the field of modern technologies.<br/> I'd like to work with an interesting project and smart people!
+                   Attentiveness, punctuality, responsible approach to work. Sociability in moderation... this is not always appropriate!<br/> I strive to constantly develop and improve my knowledge in the field of modern technologies.<br/> I&apos;d like to work with an interesting project and smart people!
                    </p>
                </div>
             </div>

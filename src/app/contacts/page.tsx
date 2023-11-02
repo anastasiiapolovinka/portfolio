@@ -6,8 +6,8 @@ const Contacts = () => {
       <div className="bg-slate-100 flex min-h-screen p-16 flex-col items-center">
          <div>
             <p className='text-4xl text-sky-900 font-semibold'>Wow!!!</p>
-            <p className="text-xl font-semibold text-sky-800 pt-8">You'll reach this page!<br/>
-This means that you want to collaborate with me!<br/> Great news - we're one step apart.<br/> Contact me in any way that is convenient for you and we'll begin our communication!<br/> See you!
+            <p className="text-xl font-semibold text-sky-800 pt-8">You&apos;ll reach this page!<br/>
+This means that you want to collaborate with me!<br/> Great news - we&apos;re one step apart.<br/> Contact me in any way that is convenient for you and we&apos;ll begin our communication!<br/> See you!
             </p>        
          </div>
          <div className='flex flex-col mt-4 justify-evenly w-full text-sky-900 pt-20'>

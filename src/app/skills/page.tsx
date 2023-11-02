@@ -6,8 +6,8 @@ const Skills = () => {
          <div className="border-sky-900  border-2 py-8 px-20">
             <div className="flex justify-between">
                <div>
-                  <p className="text-4xl font-semibold text-sky-900">Well, it's time to talk about what I can do!</p>
-                  <p className="text-xl font-semibold text-sky-800"> It's no secret that every developer collects a set of technologies to improve their development skills.<br/> At first it was basic knowledge and online theory training, and then it grew into real code for software!<br/> Below you can see my level of proficiency in the technologies that I use at the moment.<br/> But keep in mind, I'm constantly learning something new and will expand my stack as quickly as the updates!</p>
+                  <p className="text-4xl font-semibold text-sky-900">Well, it&apos;s time to talk about what I can do!</p>
+                  <p className="text-xl font-semibold text-sky-800"> It&apos;s no secret that every developer collects a set of technologies to improve their development skills.<br/> At first it was basic knowledge and online theory training, and then it grew into real code for software!<br/> Below you can see my level of proficiency in the technologies that I use at the moment.<br/> But keep in mind, I&apos;m constantly learning something new and will expand my stack as quickly as the updates!</p>
                </div>
                <div className="flex flex-col items-center">
                   <p className="text-4xl font-semibold text-sky-900">And here I keep my code.</p>
