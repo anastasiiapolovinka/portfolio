@@ -38,8 +38,8 @@ export default function CV() {
                      <p className='lg:pt-0 pt-6  text-4xl lg:text-5xl font-semibold text-sky-600'>ANASTASIIA POLOVYNKO</p>
                      <p className='text-xl lg:text-3xl font-bold lg:font-semibold mt-6 text-sky-600'>PERSONAL INFORMATION</p>
                      <div className='text-xl font-semibold mt-4 text-slate-600'>
-                        <p>Citizenship: Ukraine, Russian Federation;</p>
-                        <p>Place of residence: Vila Joiosa, Spain;</p>
+                        <p>Citizenship: Russian Federation;</p>
+                        <p>Place of residence: Sochi, Russia;</p>
                         <p>Education: Philological University;</p>
                         <p>Date of birth: 03/22/1990;</p>
                         <p>Marital status: Married</p>
